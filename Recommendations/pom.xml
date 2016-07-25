@@ -6,7 +6,6 @@
     <groupId>br.com.mnesis</groupId>
     <artifactId>Recommendations</artifactId>
     <version>0.1.0</version>
-    <packaging>jar</packaging>
     
    	<parent>
         <groupId>org.springframework.boot</groupId>
