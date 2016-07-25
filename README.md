@@ -1,10 +1,14 @@
 # Recommendations
 Test project with spring rest-service, cache and rest-consume
 
-## Install and start the server
+## Requirements
 
-- `mvn clean package`
-- `mvn `
+- Java8
+- Maven >= 3.0.5
+
+## Start the server
+
+- `mvn spring-boot:run`
 
 Now you can make API requests, eg: `curl -i localhost:8080/api/recent_purchases/{{username}}
 
